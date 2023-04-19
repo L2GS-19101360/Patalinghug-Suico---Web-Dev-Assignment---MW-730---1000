@@ -11,7 +11,7 @@ include("check_connection.php");
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SS Library Management System</title>
+    <title>PS Library Management System</title>
     <link rel="shortcut icon" href="./favicon.png" type="image/x-icon">
 
     <link rel="stylesheet" href="./style.css">
@@ -25,7 +25,7 @@ include("check_connection.php");
         <div class="title_bar">
             <img src="./favicon.png" alt="" id="website_logo">
             <br>
-            <h1 id="website_name">SS Library Management System - &nbsp;<i class="fa-solid fa-house"></i> Home Page</h1>
+            <h1 id="website_name">PS Library Management System - &nbsp;<i class="fa-solid fa-house"></i> Home Page</h1>
         </div>
         <nav>
             <ul>
