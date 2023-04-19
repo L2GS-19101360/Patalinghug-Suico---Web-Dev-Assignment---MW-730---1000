@@ -1,6 +1,7 @@
 <?php
 
 // Insert All PHP codes for Home Page Under this comment
+include("check_connection.php");
 
 ?>
 
