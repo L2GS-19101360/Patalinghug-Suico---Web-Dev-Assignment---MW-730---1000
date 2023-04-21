@@ -29,7 +29,7 @@ include("check_connection.php");
         </div>
         <nav>
             <ul>
-                <a href="./home-page.php"><li id="active_tab"><i class="fa-solid fa-house"></i>HOME PAGE</li></a>
+                <a href="./index.php"><li id="active_tab"><i class="fa-solid fa-house"></i>HOME PAGE</li></a>
                 <a href="./create-book.php"><li><i class="fa-solid fa-folder-plus"></i>CREATE BOOK</li></a>
                 <a href="./search-book.php"><li><i class="fa-solid fa-magnifying-glass"></i>SEARCH BOOK</li></a>
                 <a href="./update-book.php"><li><i class="fa-solid fa-pen-to-square"></i>UPDATE BOOK</li></a>
@@ -40,6 +40,8 @@ include("check_connection.php");
     <!-- Do Not Touch Header, Formality Purposes -->
     
     <!-- Insert All HTML codes for Home Page Under this comment -->
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" crossorigin="anonymous"></script>
 
 </body>
 </html>
