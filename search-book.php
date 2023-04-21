@@ -38,6 +38,8 @@ include("check_connection.php");
     <!-- Do Not Touch Header, Formality Purposes -->
     
     <!-- Insert All HTML codes for Search Book Page Under this comment -->
+    
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" crossorigin="anonymous"></script>
 
 </body>
 </html>
